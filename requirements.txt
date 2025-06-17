@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchainhub
+streamlit
+faiss-cpu
+groq
+python-dotenv
+langchain-groq
